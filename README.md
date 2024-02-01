@@ -6,10 +6,10 @@ iOS application for real-time football scores, fixtures, videos, and news. Fetch
 
 ## Features
 
-- Live Scores and Fixtures
-- Video Library
-- News Feed
-- Settings tab
+⚽️ Live Scores and Fixtures 
+📺 Video Library
+📰 News Feed
+🛠️ Settings tab
 
 ## Technologies
 
